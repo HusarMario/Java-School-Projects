@@ -1,0 +1,12 @@
+
+*.xml
+*.class
+*.ctxt
+*.iml
+*.html
+*.bluej
+*.png
+BrickBreaker/doc/element-list
+*.js
+*.css
+*.txt
